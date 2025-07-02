@@ -1,0 +1,15 @@
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\bin\Debug\net6.0\LearnGit.exe
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\bin\Debug\net6.0\LearnGit.deps.json
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\bin\Debug\net6.0\LearnGit.runtimeconfig.json
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\bin\Debug\net6.0\LearnGit.dll
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\bin\Debug\net6.0\ref\LearnGit.dll
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\bin\Debug\net6.0\LearnGit.pdb
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.csproj.AssemblyReference.cache
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.AssemblyInfoInputs.cache
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.AssemblyInfo.cs
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.csproj.CoreCompileInputs.cache
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.dll
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\ref\LearnGit.dll
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.pdb
+C:\Users\AASHISH\source\repos\CoreWebApp\LearnGit\LearnGit\obj\Debug\net6.0\LearnGit.genruntimeconfig.cache

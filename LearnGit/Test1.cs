@@ -8,5 +8,6 @@ namespace LearnGit
 {
     public class Test1
     {
+        void get() { } // third comiit
     }
 }

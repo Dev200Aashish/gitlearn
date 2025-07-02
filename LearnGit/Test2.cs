@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LearnGit
 {
+    //commit change from master.
     public class Test2
     {
     }
